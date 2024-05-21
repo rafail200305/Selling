@@ -1,0 +1,57 @@
+#home-page {
+  .home-page {
+    #banner {
+      background-image: url("https://preview.colorlib.com/theme/selling/images/hero_2.jpg");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: right;
+      padding: 22rem 13rem;
+    }
+
+    .content {
+      max-width: 400px;
+      h1 {
+        font-size: 96px;
+        font-weight: bold;
+      }
+      p {
+        font-size: 17px;
+        color: white;
+      }
+      .shop {
+        padding: 12px 35px;
+        background-color: white;
+        border-radius: 5px;
+      }
+      .clup {
+        padding: 12px 35px;
+        background-color: white;
+        border-radius: 5px;
+      }
+    }
+  }
+}
+
+#category {
+  background-color: #f8fbff;
+  h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+  p {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  h5 {
+    display: flex;
+    justify-content: center;
+  }
+}
