@@ -27,7 +27,7 @@ const HomePage = () => {
                   <h1>Our Products</h1>
                   <h5>
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Voluptatibus nemo recusandae dolorum.
+                    Voluptatibus nemo recusanda doluram.
                   </h5>
                 </div>
               </div>
